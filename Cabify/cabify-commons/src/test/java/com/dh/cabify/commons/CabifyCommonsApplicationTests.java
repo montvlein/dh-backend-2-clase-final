@@ -1,0 +1,13 @@
+package com.dh.cabify.commons;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CabifyCommonsApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
